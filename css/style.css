@@ -1,0 +1,50 @@
+html{
+    background-color: #1d3557;
+}
+
+h1{
+    text-align: center;
+    font-size: 42px;
+    color: #e63946;
+}
+
+h2{
+    color: #e63946;
+    font-size: 32px;
+}
+
+p{
+    color: #f1faee;
+}
+
+.ingredients{
+    color: #f1faee;
+}
+
+.instructions{
+    color:#f1faee;
+}
+
+.recipe img{
+    height: 100px;
+    width: auto;
+}
+
+#displayimage{
+    height: 200px;
+    width: auto;
+    border-style: groove;
+    border-color: black;
+}
+
+.recipe{
+    text-align: center;
+    list-style-type: none;
+    align-self: center;
+}
+
+a{
+    color: #f1faee;
+    text-decoration-line: none;
+}
+
